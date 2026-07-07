@@ -6,3 +6,6 @@ Power BI Finance Dashboard with YoY, Department comparisons and Budget Variance 
 
 ## 🔗 Dashboard Preview
 ![Dashboard](Images/DataView.png)
+
+## 📐 Model View
+![Model View](Images/Modelview.png)
